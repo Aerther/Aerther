@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aerther</h1>
 <h3 align="center">A guy who has passion for coding</h3>
 
-- 🔭 I’m currently working on [Runnadie (My own Java game)]((still not on github))
+- 🔭 I’m currently working on **Runnadie** (My own Java game)
 
 - 🌱 I’m currently learning **DSA and game development**
 
